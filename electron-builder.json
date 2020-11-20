@@ -1,0 +1,18 @@
+{
+    "productName": "calculator",
+    "appId": "com.example.calculator",
+    "directories": {
+      "output": "build/${version}"
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "private": false,
+        "owner": "NaveedAhmedFutest",
+        "repo": "Smart-Release-Test",
+        "token": "de60e50039350866d1f23d8fcca8fe94d6b7fe4e"
+      }
+    ]
+   
+  
+  }
